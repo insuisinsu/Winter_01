@@ -11,6 +11,6 @@
 </h1>
 
 <P>  The time on the server is ${serverTime}. 한글이다!</P>
-<p>  한글이에요 vrew</p>
+<p>insu 게시판 글쓰기</p>
 </body>
 </html>
